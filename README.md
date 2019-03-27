@@ -1,4 +1,6 @@
 # Incident Ipsum
+Ipsum generator that creates text relevant to IT incidents/outages.
+
 An adaptation of the tutorial: https://www.youtube.com/watch?v=iLS4Hk-kJXE
 
 ## Modifications to above tutorial
