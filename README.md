@@ -9,6 +9,10 @@ An adaptation of the tutorial: https://www.youtube.com/watch?v=iLS4Hk-kJXE
 * Added randomizer so not every word gets translated, so you have some semblance of a sentence
 * Added test for capitalization so if the original words starts a sentence, the replacement word is capitalized
 * Output to terminal rather than creating a new file.
+* Preserved basic verbs so that there's more of a chance for real independent clauses matching the structure of the original.
 
 ## Example output:
 `But I must maintenance page to failure application all feature toggle mistaken idea of denouncing availability zones and praising iterating was born. Threads will give aws a complete feature toggle of the system, and expound the actual teachings database microservice great explorer of iterating aws Firewall intgration of human happiness. No expired certificate endpoint intgration or 404 error pleasure availability zones docker it API pleasure. Availability zones because those who docker not know devops to pursue container object durability encounter consequences postgres security group root cause postgres`
+
+## Also available as a Flask web app:
+https://jasonmckinleywilliams.pythonanywhere.com/incident_ipsum
