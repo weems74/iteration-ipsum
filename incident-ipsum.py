@@ -9,6 +9,8 @@ def incidentize (word):
 	translate_or_not = randint(0,5)
 	if translate_or_not > 1:
 		return word
+	elif word in ("explain","will","give","are"):
+    	    return word
 	else:
 		index = randint(0,len(incident_jargon) -1)
 		replacement = incident_jargon[index]
