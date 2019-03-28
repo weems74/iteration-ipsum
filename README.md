@@ -12,7 +12,7 @@ An adaptation of the tutorial: https://www.youtube.com/watch?v=iLS4Hk-kJXE
 * Preserved basic verbs so that there's more of a chance for real independent clauses matching the structure of the original.
 
 ## Example output:
-`But I must maintenance page to failure application all feature toggle mistaken idea of denouncing availability zones and praising iterating was born. Threads will give aws a complete feature toggle of the system, and expound the actual teachings database microservice great explorer of iterating aws Firewall intgration of human happiness. No expired certificate endpoint intgration or 404 error pleasure availability zones docker it API pleasure. Availability zones because those who docker not know devops to pursue container object durability encounter consequences postgres security group root cause postgres`
+`Baseline Threads must explain Lambda mount fatal microservice this mistaken isolating of API pleasure integration praising pain was born. I will give you a complete 403 error database load balancer system, and expound the root cause teachings object durability the great explorer of cloud formation script truth. The master-builder roll back human happiness. No credentials endpoint application security group cloud formation script pleasure cloudwatch because it is pleasure. Root cause because those who do not cloud formation script how cloudwatch versioning pleasure rationally encounter consequences roll back are extremely painful.`
 
 ## Also available as a Flask web app:
 https://jasonmckinleywilliams.pythonanywhere.com/incident_ipsum
