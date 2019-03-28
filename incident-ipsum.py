@@ -12,7 +12,7 @@ def incidentize (word):
 	else:
 		index = randint(0,len(incident_jargon) -1)
 		replacement = incident_jargon[index]
-		if word.istitle() == True and replacement.istitle() == False:
+		if word.istitle() == True and replacement.isupper() == False:
 			return replacement.capitalize()
 		return replacement
 
